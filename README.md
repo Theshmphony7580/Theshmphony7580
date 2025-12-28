@@ -2,8 +2,10 @@
 I’m currently in My **Second Year** of the college
 I’m deeply passionate about **data analysis, analytics, and intelligent systems**, and I enjoy turning raw data into clear, actionable outcomes.  
 I am the kind like who **learns by developing**
-
-https://tenor.com/view/busy-busy-days-sprint-multitask-multitasking-gif-5430743670360990806
+I just love the combination of **Coffee - Music - Code** and its always late nights 
+<p align="center">
+  <img src="assets/coffee-caffeine.gif" width="300" />
+</p>
 
 I’m always **open to collaboration**, learning from others, and contributing to impactful projects.  
 If it involves **data, analytics, or AI-powered solutions**, I’m interested 🚀
