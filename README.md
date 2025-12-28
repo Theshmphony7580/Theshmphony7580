@@ -1,5 +1,5 @@
 ## 😎 About Me
-<p align="center"><strong>A Caffeinated mind with Curiosity</strong></p>
+<h2 align="center">☕ A Caffeinated Mind with Curiosity</h2>
 
 ### 👋 Hey, I’m Mohit
 
