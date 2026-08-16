@@ -3,7 +3,7 @@
 
 ### 👋 Hey, I’m Mohit
 
-🎓 **Second-year college student**  
+🎓 **Third-year college student**  
 📊 **Passionate about data analysis, analytics & intelligent systems**  
 🧠 I enjoy transforming **raw data into clear, actionable insights**
 
